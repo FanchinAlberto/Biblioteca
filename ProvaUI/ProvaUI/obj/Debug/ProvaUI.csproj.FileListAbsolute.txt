@@ -1,0 +1,10 @@
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\bin\Debug\ProvaUI.exe.config
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\bin\Debug\ProvaUI.exe
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\bin\Debug\ProvaUI.pdb
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.csproj.AssemblyReference.cache
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.Form1.resources
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.Properties.Resources.resources
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.csproj.GenerateResource.cache
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.csproj.CoreCompileInputs.cache
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.exe
+C:\Users\6190192\source\repos\ProvaUI\ProvaUI\obj\Debug\ProvaUI.pdb
